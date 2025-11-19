@@ -359,9 +359,11 @@ img {
   background-color: #2e2f42;
   padding: 100px 0;
 }
-.container-two {
+.container-one {
   display: flex;
   align-items: baseline;
+}
+.container-two {
   margin-right: 120px;
 }
 .footer-logo {
